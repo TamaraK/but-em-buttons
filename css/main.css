@@ -1,14 +1,18 @@
-<!DOCTYPE html>
-<html lang="en-ca">
-<head>
-  <meta charset="utf-8">
-  <title>buttons</title>
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <link href="css/modules.css" rel="stylesheet">
-  <link href="css/grid.css" rel="stylesheet">
-  <link href="css/type.css" rel="stylesheet">
-  <link href="css/main.css" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Ubuntu+Condensed" rel="stylesheet">
-</head>
-<body>
-  <section class="height-win-full text-center">
+html {
+  font-family: "Ubuntu Condensed", sans-serif;
+  background-image: url("../images/starfield.png");
+}
+
+h1, p {
+  color: #fff;
+  text-align: center;
+}
+
+.btn {
+  border-color: #b4fff4;
+}
+
+a {
+  color: #b4fff4;
+  text-decoration: none;
+}
