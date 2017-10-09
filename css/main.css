@@ -42,7 +42,7 @@ html {
 }
 
 .btn-ghost {
-  
+  transition: all 250ms ease;
 }
 
 .btn-ghost:hover .icon {
