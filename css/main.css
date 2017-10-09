@@ -32,7 +32,7 @@ html {
 }
 
 .icon,
-.btn-ghost {
+.btn {
   transition: all 250ms ease;
 }
 
